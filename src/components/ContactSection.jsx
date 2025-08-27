@@ -65,10 +65,10 @@ export const ContactSection = () => {
                     title: "Phone",
                     info: (
                       <a
-                        href="tel:+880099876543"
+                        href="tel:+8801689445967"
                         className="hover:text-primary transition-colors"
                       >
-                        +880099876543
+                        +8801689445967
                       </a>
                     ),
                   },
