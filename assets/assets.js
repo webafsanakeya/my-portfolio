@@ -85,21 +85,26 @@ export const workData = [
         title: 'Real-Time Chat App',
         description: 'Built with Socket.io, Node.js, and React',
         bgImage: '/work-1.png',
+        liveLink: "https://chat-app-frontend-delta-seven.vercel.app/",
     },
       {
         title: 'E-Commerce Website',
         description: 'Full-featured online store with cart & checkout',
         bgImage: '/work-2.png',
+        liveLink : "https://ecommerce-indol-iota-59.vercel.app/"
+        
     },
     {
         title: 'Perfume E-Commerce Website',
         description: 'Specialized online shop for perfumes',
         bgImage: '/work-3.png',
+        liveLink: "https://perfume-omega-seven.vercel.app/",
     },
     {
         title: 'Lost & Found Website',
         description: 'Platform to report and find lost items',
         bgImage: '/work-4.png',
+        liveLink: "https://findlost-app.netlify.app/"
     },
 ]
 
