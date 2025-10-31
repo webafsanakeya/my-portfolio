@@ -36,7 +36,7 @@ const Header = () => {
         transition={{ duration: 0.6, delay: 0.7 }}
         className="max-w-2xl mx-auto font-ovo"
       >
-        Frontend & MERN Stack Developer from Dhaka with hands-on experience through internships at Webnex IT, CodersTrust, and Programming Hero. I love building responsive, user-friendly web apps and solving real-world problems with code.
+        Frontend & MERN Stack Developer from Dhaka with hands-on experience through internships at Webnex IT. I love building responsive, user-friendly web apps and solving real-world problems with code.
       </motion.p>
       <div className="flex flex-col sm:flex-row items-center gap-4 mt-4">
         <motion.a
@@ -53,7 +53,7 @@ const Header = () => {
   initial={{ y: 30, opacity: 0 }}
   whileInView={{ y: 0, opacity: 1 }}
   transition={{ duration: 0.6, delay: 1.2 }}
-  href="/sample-resume.pdf"
+  href="/Afsana_Noor_Keya_Resume.pdf"
   download
   className="px-10 py-3 border rounded-full border-gray-500 flex items-center gap-2 bg-white text-black"
 >
